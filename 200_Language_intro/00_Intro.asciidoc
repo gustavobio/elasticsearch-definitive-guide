@@ -5,7 +5,7 @@ Elasticsearch ships with a collection of language analyzers that provide
 good, basic, out-of-the-box ((("language analyzers")))((("languages", "getting started with")))support for many of the world's most common
 languages:
 
-Arabic, Armenian, Basque, Brazilian, Bulgarian, Catalan, Chinese,
+Arabic, Armenian, Basque, Brazilian Portuguese, Bulgarian, Catalan, Chinese,
 Czech, Danish, Dutch, English, Finnish, French, Galician, German, Greek,
 Hindi, Hungarian, Indonesian, Irish, Italian, Japanese, Korean, Kurdish, 
 Norwegian, Persian, Portuguese, Romanian, Russian, Spanish, Swedish, 
